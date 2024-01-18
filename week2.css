@@ -1,0 +1,34 @@
+/* *{
+    background-color: yellowgreen;
+    color: red;
+}
+
+h3{
+    background-color: blue;
+}
+h4{
+    background-color: aqua;
+}
+.momos{
+    background-color: yellow;
+}
+#spiti{
+    background-color: purple;
+} */
+
+
+
+
+
+/* text properties */
+
+h1{
+    /* text-align: center; */
+    /* text-align: end; */
+    /* text-align: right; */
+
+}
+p{
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
